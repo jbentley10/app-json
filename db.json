@@ -2,49 +2,49 @@
   "apps": [
     {
       "id": 1,
-      "title": "Crowd Monitoring",
+      "title": "Crowd monitoring",
       "linkHref": "https://www.google.com",
       "image": "crowd-monitoring"
     },
     {
       "id": 2,
-      "title": "Parks: Occupancy",
+      "title": "Parks: occupancy",
       "linkHref": "https://www.google.com",
       "image": "parks-occupancy"
     },
     {
       "id": 3,
-      "title": "Traffic Monitoring",
+      "title": "Traffic monitoring",
       "linkHref": "https://www.google.com",
       "image": "traffic-monitoring"
     },
     {
       "id": 4,
-      "title": "Wrong Way Driving",
+      "title": "Wrong way driving",
       "linkHref": "https://www.google.com",
       "image": "wrong-way-driving"
     },
     {
       "id": 5,
-      "title": "Persons of Interest",
+      "title": "Persons of interest",
       "linkHref": "https://www.google.com",
       "image": "persons-of-interest"
     },
     {
       "id": 6,
-      "title": "Parks: Climbing",
+      "title": "Parks: climbing",
       "linkHref": "https://www.google.com",
       "image": "parks-climbing"
     },
     {
       "id": 7,
-      "title": "Vehicles of Interest",
+      "title": "Vehicles of interest",
       "linkHref": "https://www.google.com",
       "image": "vehicle-of-interest"
     },
     {
       "id": 8,
-      "title": "Noise Alerts",
+      "title": "Noise alerts",
       "linkHref": "https://www.google.com",
       "image": "noise-alerts"
     }
