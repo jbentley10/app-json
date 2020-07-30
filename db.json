@@ -4,49 +4,49 @@
       "id": 1,
       "title": "Crowd monitoring",
       "linkHref": "https://www.google.com",
-      "image": "crowd-monitoring"
+      "icon": "crowd-monitoring"
     },
     {
       "id": 2,
       "title": "Parks: occupancy",
       "linkHref": "https://www.google.com",
-      "image": "parks-occupancy"
+      "icon": "parks-occupancy"
     },
     {
       "id": 3,
       "title": "Traffic monitoring",
       "linkHref": "https://www.google.com",
-      "image": "traffic-monitoring"
+      "icon": "traffic-monitoring"
     },
     {
       "id": 4,
       "title": "Wrong way driving",
       "linkHref": "https://www.google.com",
-      "image": "wrong-way-driving"
+      "icon": "wrong-way-driving"
     },
     {
       "id": 5,
       "title": "Persons of interest",
       "linkHref": "https://www.google.com",
-      "image": "persons-of-interest"
+      "icon": "persons-of-interest"
     },
     {
       "id": 6,
       "title": "Parks: climbing",
       "linkHref": "https://www.google.com",
-      "image": "parks-climbing"
+      "icon": "parks-climbing"
     },
     {
       "id": 7,
       "title": "Vehicles of interest",
       "linkHref": "https://www.google.com",
-      "image": "vehicle-of-interest"
+      "icon": "vehicle-of-interest"
     },
     {
       "id": 8,
       "title": "Noise alerts",
       "linkHref": "https://www.google.com",
-      "image": "noise-alerts"
+      "icon": "noise-alerts"
     }
   ]
 }
