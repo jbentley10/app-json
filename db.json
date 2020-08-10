@@ -47,6 +47,12 @@
       "title": "Noise alerts",
       "linkHref": "https://www.google.com",
       "icon": "noise-alerts"
+    },
+    {
+      "id": 9,
+      "title": "Health voucher",
+      "linkHref": "https://www.google.com",
+      "icon": "health-voucher"
     }
   ]
 }
